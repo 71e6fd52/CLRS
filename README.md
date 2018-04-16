@@ -1,2 +1,2 @@
 # CLRS
-Pseudocode in *CLRS* in really code.
+Pseudocode in *CLRS* in ruby.
