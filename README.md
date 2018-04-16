@@ -1,2 +1,2 @@
 # CLRS
-Fake code in *CLRS* in really code.
+Pseudocode in *CLRS* in really code.
