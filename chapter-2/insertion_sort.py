@@ -1,13 +1,12 @@
 #!/usr/bin/env python
 
 class InsertionSort:
-    '''
-Sort by Insertion Sort
+    '''Sort by Insertion Sort
 
-Try to imagine you get a things
-move bigger things to right
-then put it to the right place
-'''
+    Try to imagine you get a things
+    move bigger things to right
+    then put it to the right place
+    '''
     def insertion_sort(array):
         for holding_index in range(1, len(array)):
             holdind = InsertionSort.__get(array, holding_index)

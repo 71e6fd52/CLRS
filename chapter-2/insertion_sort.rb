@@ -21,7 +21,7 @@ module InsertionSort
       new
     end
 
-    private_class_method
+    private
 
     def get(array, index)
       array[index]
